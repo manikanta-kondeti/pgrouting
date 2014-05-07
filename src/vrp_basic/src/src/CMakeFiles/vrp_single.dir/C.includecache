@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/VRP.c
+VRP.h
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/VRP.h
+postgres.h
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/postgres.h
+executor/spi.h
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/executor/spi.h
+funcapi.h
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/funcapi.h
+catalog/pg_type.h
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/catalog/pg_type.h
+access/htup_details.h
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/access/htup_details.h
+stdio.h
+-
+stdlib.h
+-
+search.h
+-
+string.h
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/string.h
+math.h
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/math.h
+fmgr.h
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/fmgr.h
+sys/time.h
+-
+
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/VRP.h
+postgres.h
+/home/manikanta/Study/GSoC/pgrouting/src/vrp_basic/src/postgres.h
+
